@@ -19,6 +19,8 @@ app.use(
 
 app.use(express.static('public'));
 
+// load index.html from current directory, public 
+
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
 });
