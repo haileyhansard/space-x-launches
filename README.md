@@ -1,5 +1,5 @@
 # space-x-launches
-# Depolyed at https://stark-scrubland-42189.herokuapp.com/
+# Deployed at https://stark-scrubland-42189.herokuapp.com/
 App that showcases success and failure missions from SpaceX using React, Apollo, and GraphQL
 This app was created with Brad Traversy's tutorial for practice with GraphQL.
 
